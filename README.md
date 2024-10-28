@@ -18,8 +18,26 @@ Epub Library is a Flutter application designed for reading EPUB-format books in 
 To run the app locally, follow these steps:
 
 1. **Clone this repository**:
-   ```bash
+```bash
    git clone https://github.com/Ranavlie/Epub_library.git
+``` 
+2. **Navigate to the project directory**:
+```bash
+    cd Epub_library
+```
+3. **Install dependencies**:
+```bash
+    flutter pub get
+```
+4. **Run the app**:
+```bash
+    flutter run
+```
+   
+
+
+
+
 
 
 ![WhatsApp Image 2024-10-28 at 23 21 15](https://github.com/user-attachments/assets/37291734-bd73-452e-8009-22b1294f2284)
